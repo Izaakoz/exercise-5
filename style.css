@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+h1 {
+    font-weight: 400;
+    color: hsl(229, 6%, 66%);
+
+}
+
+.lead {
+    font-weight: 800;
+    color: hsl(234, 12%, 34%);
+}
+
+.textoinicial {
+    font-weight: 200;
+    color: hsl(229, 6%, 66%);
+    font-family: 'Poppins';
+}
+
+h5 {
+    text-align: left;
+    font-weight: 800;
+    color: hsl(234, 12%, 34%);
+}
+
+.card-text {
+    font-weight: 200;
+    color: hsl(229, 6%, 66%);
+    font-size: .8rem;
+    text-align: left;
+}
+
+img {
+    position: absolute;
+    right: 30px;
+}
+
+.card {
+    width: 18rem;
+    height: 14rem;
+    border-radius: 10px;
+    border-top-width: 10px;
+    border-top-color: hsl(180, 62%, 55%);
+    padding: 10px;
+    box-shadow: 5px 10px 18px #c4c3f0;
+    position: absolute;
+    left: 470px;
+    top: 500px;
+}
+
+.card2 {
+    width: 18rem;
+    height: 14rem;
+    border-radius: 10px;
+    border-width: 10px 0px 0px 0px;
+    border-style: solid;
+    border-top-color: hsl(0, 78%, 62%);
+
+    padding: 10px;
+    box-shadow: 5px 10px 18px #c4c3f0;
+    position: relative;
+    left: 800px;
+    top: 0px;
+}
+
+.card3 {
+    width: 18rem;
+    height: 14rem;
+    border-radius: 10px;
+    border-top-width: 10px;
+    border-width: 10px 0px 0px 0px;
+    border-style: solid;
+    border-top-color: hsl(34, 97%, 64%);
+    padding: 10px;
+    box-shadow: 5px 10px 18px #c4c3f0;
+    position: relative;
+    left: 800px;
+    top: 50px;
+}
+
+.card4 {
+    width: 18rem;
+    height: 14rem;
+    border-radius: 10px;
+    border-top-width: 10px;
+    border-width: 10px 0px 0px 0px;
+    border-style: solid;
+    border-top-color: hsl(212, 86%, 64%);
+    padding: 10px;
+    box-shadow: 5px 10px 18px #c4c3f0;
+    position: absolute;
+    right: 430px;
+    top: 500px;
+}
